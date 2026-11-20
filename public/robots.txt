@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update this URL once your custom domain or Vercel/Netlify URL is live
+Sitemap: /sitemap.xml
